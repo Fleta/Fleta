@@ -4,9 +4,6 @@
 
 ### badges 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yasoueisin)](https://solved.ac/yasoueisin)
-
 [![github status](https://github-readme-stats.vercel.app/api?username=Fleta&show_icons=true&hide_border=true)](https://github.com/Fleta)
 
 <!--

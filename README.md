@@ -1,6 +1,6 @@
 ### about me
 
-[야크 털 깎](https://seths.blog/2005/03/dont_shave_that/)는거 좋아합니다. 현실은 호스가 없어서 나무로 bucket이라도 만들어서 세차하는 쪽입니다.
+[야크 털 위이잉](https://seths.blog/2005/03/dont_shave_that/)
 
 ### badges 
 

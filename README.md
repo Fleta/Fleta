@@ -1,6 +1,6 @@
 ### about me
 
-[야크 털 위이잉](https://seths.blog/2005/03/dont_shave_that/)
+[야크 털 위이잉 ㅠㅠ](https://seths.blog/2005/03/dont_shave_that/)
 
 ### badges 
 

@@ -1,7 +1,3 @@
-### about me
-
-[야크 털 위이잉 ㅠㅠ](https://seths.blog/2005/03/dont_shave_that/)
-
 ### badges 
 
 [![github status](https://github-readme-stats.vercel.app/api?username=Fleta&show_icons=true&hide_border=true)](https://github.com/Fleta)
